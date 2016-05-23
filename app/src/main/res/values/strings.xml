@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tea is ready - EventBus</string>
+    <string name="action_settings">Settings</string>
+    <string name="tea_is_ready">Tea is ready!</string>
+    <string name="coffee_is_ready">Coffee is ready!</string>
+    <string name="nothing_is_ready">Nothing is ready</string>
+</resources>
